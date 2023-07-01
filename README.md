@@ -1,15 +1,15 @@
-## Image Upload Project
+# Image Upload Project
 
 The Image Upload Project is a full-stack web application built with Node.js, Express, and MongoDB. It offers a user-friendly interface that allows users to effortlessly upload their images, which are securely stored in a MongoDB database. This project serves as a comprehensive demonstration of integrating multiple technologies and concepts to create a robust and functional image upload system.
 
-# Features:
+## Features:
 - User-friendly interface for uploading images.
 - Supports uploading PNG, JPG, and JPEG file formats.
 - Validates file types before uploading.
 - Persists uploaded image data in a MongoDB database.
 - Displays uploaded images on the home page.
 
-# Technologies Used:
+## Technologies Used:
 - Node.js
 - Express.js
 - MongoDB
@@ -17,7 +17,7 @@ The Image Upload Project is a full-stack web application built with Node.js, Exp
 - Handlebars (templating engine)
 - Framer Motion (for animations)
 
-# Installation:
+## Installation:
 1. Clone the repository:
      ```bash git clone https://github.com/your-username/image-upload-project.git ```
 
